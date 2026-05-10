@@ -1,5 +1,3 @@
-# linux-backup-script
-
 # 🐧 Linux Backup Script
 
 Projeto simples desenvolvido em Linux/WSL utilizando Bash Script para automatizar backup de arquivos.
