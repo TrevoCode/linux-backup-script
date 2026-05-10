@@ -1,0 +1,14 @@
+Backup Automático em Linux
+Sobre o projeto
+
+Projeto simples desenvolvido em Linux/WSL utilizando Bash Script para automatizar backup de arquivos.
+
+Funcionalidades
+Criação automática de pasta de backup
+Cópia de arquivos
+Organização simples de diretórios
+Execução via terminal Linux
+Tecnologias utilizadas
+Linux
+WSL
+Bash Script
